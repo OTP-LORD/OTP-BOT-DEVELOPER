@@ -12,7 +12,7 @@ We will build you a bot based on the telegram api to handle this seamlessly, we 
 
 ### Reach out on telegram for a demo.
 
-https://t.me/otplordr
+https://t.me/otpbotsupreme_owner
 
 
 
